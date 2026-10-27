@@ -1,0 +1,16 @@
+scenario,tech,range_ok,rate_ok,power_ok,all_ok,rate_used,sectors_for_rate
+S1 Smart home,BLE 5 (802.15.1),True,True,True,True,1.4,1
+S1 Smart home,Wi-Fi 5 (802.11ac),True,True,False,False,867.0,1
+S1 Smart home,Wi-Fi 6 (802.11ax),True,True,False,False,1201.0,1
+S1 Smart home,WiMAX 802.16e,True,True,False,False,5.3,1
+S1 Smart home,WiMAX 802.16m,True,True,False,False,100.0,1
+S2 Campus,BLE 5 (802.15.1),True,False,True,False,1.4,215
+S2 Campus,Wi-Fi 5 (802.11ac),True,True,True,True,867.0,1
+S2 Campus,Wi-Fi 6 (802.11ax),True,True,True,True,1201.0,1
+S2 Campus,WiMAX 802.16e,True,False,True,False,5.3,57
+S2 Campus,WiMAX 802.16m,True,False,True,False,100.0,3
+S3 Metro FWA,BLE 5 (802.15.1),False,False,True,False,2.0,75
+S3 Metro FWA,Wi-Fi 5 (802.11ac),False,True,True,False,1730.0,1
+S3 Metro FWA,Wi-Fi 6 (802.11ax),False,True,True,False,2402.0,1
+S3 Metro FWA,WiMAX 802.16e,True,False,True,False,70.0,3
+S3 Metro FWA,WiMAX 802.16m,True,True,True,True,1000.0,1

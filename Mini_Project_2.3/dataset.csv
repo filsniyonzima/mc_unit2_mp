@@ -1,0 +1,6 @@
+tech,cls,band_GHz,access,range_low_m,range_high_m,range_note,rate_typ_Mbps,rate_peak_Mbps,rate_note,tx_infra_dBm,tx_client_dBm,power_class,src,tx_infra_mW,rate_per_m,rate_x_range,fspl_at_range,fspl_at_max
+BLE 5 (802.15.1),WPAN,2.4,"FHSS, GFSK",40,200,40 m indoor / 200 m outdoor LOS (1M PHY),1.4,2,1.4 Mbps app throughput / 2 Mbps PHY,0,0,Low,[1][2][3],1.0,0.05,0.08,72.08542466079136,86.06482474751174
+Wi-Fi 5 (802.11ac),WLAN,5.5,"OFDM, CSMA/CA",27,300,90 ft indoor / 1000 ft outdoor,867.0,1730,2x2 80 MHz / 2x2 160 MHz,18,18,Medium,[4][8][10],63.09573444801933,64.07407407407408,46.71,75.87452907306462,96.78967888427812
+Wi-Fi 6 (802.11ax),WLAN,5.5,"OFDMA, CSMA/CA",30,120,30 m indoor / 120 m outdoor,1201.0,2402,2SS HE80 / 2x2 160 MHz,21,23,Medium,[4][5][6][7],125.89254117941675,80.06666666666666,72.06,76.78967888427812,88.83087871083737
+WiMAX 802.16e,WMAN,2.5,Scalable OFDMA,3000,10000,3-5 km mobile / up to 10 km fixed,5.3,70,5.3 Mbps measured / 70 Mbps fixed peak,43,23,High,[9][11][12],19952.62314968879,0.023333333333333334,210.0,109.941225267834,120.39880017344075
+WiMAX 802.16m,WMAN,2.5,Scalable OFDMA,3000,10000,up to 10 km (low end assumed = 16e),100.0,1000,100 Mbps high-mobility / 1 Gbps stationary,43,23,High,[11][13] (power assumed = 16e),19952.62314968879,0.3333333333333333,3000.0,109.941225267834,120.39880017344075

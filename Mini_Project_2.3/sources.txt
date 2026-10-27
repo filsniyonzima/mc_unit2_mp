@@ -1,0 +1,15 @@
+[1] Electronic Design, '5 Things You Must Know About the New Bluetooth 5' - electronicdesign.com/technologies/communications/wireless/article/21802861/5-things-you-must-know-about-the-new-bluetooth-5
+[2] BZZ course wiki, LU07b Bluetooth (BT5: ~40 m indoors / ~200 m outdoors at 1 Mbit/s) - wiki.bzz.ch/en/modul/m286/learningunits/lu07/bluetooth
+[3] Android Authority, 'Bluetooth 5: speed, range and more' (BLE 5 2 Mbps PHY, ~1.4 Mbps throughput) - androidauthority.com/bluetooth-5-speed-range-762369/
+[4] Intel Support, 'Different Wi-Fi Protocols and Data Rates' (802.11ax 2.4 Gbps, 802.11ac wave 2 1.73 Gbps, 866 Mbps 2x2 80 MHz) - intel.com/content/www/us/en/support/articles/000005725.html
+[5] Aruba 500H series datasheet (HE80 2SS 1.2 Gbps; +21 dBm 5 GHz) - open-vision.ru/catalog/network-equipment/besprovodnyie-seti/aruba-500h-series/
+[6] Intel Wi-Fi 6E AX210 technical specifications (5 GHz client 23 dBm EIRP max) - onlinehelp.ncrvoyix.com/Retail/SafetyCompliance/B005-0000-1589/Topics/RFIStatements/AX210/AX210TechSpec.htm
+[7] Electronics Notes, Wi-Fi standards infographic (Wi-Fi 6: ~30 m indoor, ~120 m outdoor) - electronics-notes.com/articles/summary-infographics/wifi-80211/wifi-standards-infographic-v3.pdf
+[8] L-com, '802.11 Wireless Standards' (11ac ~90 ft indoor, ~1000 ft outdoor; 11ax 50 ft / 900 ft at 5 GHz) - l-com.com/images/downloadables/Technical-Briefs-And-Articles/802-11-Wireless-Standards.pdf
+[9] EDN, WiMAX power profile (BS ~+43 dBm / 20 W, MS ~+23 dBm) - edn.com/?p=4005852
+[10] EE Times India, 'The File', 1 Dec 2008 (Wi-Fi AP/client typically +18 dBm; WiMAX BS +43 dBm) - nxtbook.com/nxtbooks/emedia/eetindia_20081201/index.php?startid=6
+[11] RF Wireless World, 'Understanding IEEE 802.16 WiMAX Standards' (16e: up to 70 Mbps fixed, 3-5 km mobile, up to 10 km fixed; 16m: 1 Gbps stationary / 100 Mbps mobile, up to 10 km) - rfwireless-world.com/articles/understanding-ieee-802-16-wimax-standards
+[12] arXiv:1605.00889, 'The Role of communication and network technologies in vehicular applications' (802.16e up to 70 Mbps, ~10 km; measured mean 2 and 5.3 Mbps) - arxiv.org/pdf/1605.00889
+[13] itwissen.info, 'IEEE 802.16m' (1 Gbit/s nomadic, 100 Mbit/s at high mobility) - itwissen.info/en/IEEE-802-DOT-16m-119759.html
+[14] FierceWireless, 'Sprint to shutter WiMAX network around Nov. 6, 2015' - fierce-network.com/wireless/sprint-to-shutter-wimax-network-around-nov-6-2015
+[15] TP-Link Omada 5 GHz 867 Mbps wireless bridge (up to 5 km point-to-point) - omadanetworks.com/ca/business-networking/omada-wifi-wireless-bridge/
